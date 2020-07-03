@@ -9,6 +9,7 @@ namespace ReconClassLibrary.Model
 {
     public class ClientMaster
     {
+///testing
         [Key]
         public Int64 ClientID { get; set; }
         [Required]
