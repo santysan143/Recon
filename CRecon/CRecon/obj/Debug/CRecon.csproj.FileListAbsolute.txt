@@ -1,0 +1,168 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\CRecon.dll.config
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\CRecon.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\CRecon.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Antlr3.Runtime.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.AspNet.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.Core.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Data.Edm.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Data.OData.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Newtonsoft.Json.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Spatial.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Helpers.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Http.OData.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Mvc.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Optimization.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Razor.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.WebPages.Deployment.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.WebPages.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.WebPages.Razor.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\WebGrease.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\WebMatrix.Data.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\WebMatrix.WebData.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Newtonsoft.Json.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Helpers.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Mvc.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Razor.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.WebPages.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.WebPages.Deployment.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.WebPages.Razor.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\WebMatrix.Data.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\WebMatrix.WebData.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.AspNet.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.Core.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Web.Http.OData.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Data.Edm.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\Microsoft.Data.OData.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\System.Spatial.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\de\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\es\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\fr\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\it\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ja\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ko\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ru\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\obj\Debug\CRecon.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\obj\Debug\CRecon.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\obj\Debug\CRecon.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ReconClassLibrary.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\CRecon\CRecon\bin\ReconClassLibrary.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\CRecon\CRecon\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\CRecon\CRecon\bin\EntityFramework.SqlServer.xml
+I:\Santosh Personal\CRecon\CRecon\bin\CRecon.dll.config
+I:\Santosh Personal\CRecon\CRecon\bin\CRecon.dll
+I:\Santosh Personal\CRecon\CRecon\bin\CRecon.pdb
+I:\Santosh Personal\CRecon\CRecon\bin\Antlr3.Runtime.dll
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.AspNet.dll
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.Core.dll
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.dll
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.dll
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\Santosh Personal\CRecon\CRecon\bin\EntityFramework.dll
+I:\Santosh Personal\CRecon\CRecon\bin\EntityFramework.SqlServer.dll
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Data.Edm.dll
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Data.OData.dll
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Web.Infrastructure.dll
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Web.WebPages.OAuth.dll
+I:\Santosh Personal\CRecon\CRecon\bin\Newtonsoft.Json.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ReconClassLibrary.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Spatial.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Helpers.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Http.OData.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Mvc.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Optimization.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Razor.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.WebPages.Deployment.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.WebPages.dll
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.WebPages.Razor.dll
+I:\Santosh Personal\CRecon\CRecon\bin\WebGrease.dll
+I:\Santosh Personal\CRecon\CRecon\bin\WebMatrix.Data.dll
+I:\Santosh Personal\CRecon\CRecon\bin\WebMatrix.WebData.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ReconClassLibrary.pdb
+I:\Santosh Personal\CRecon\CRecon\bin\EntityFramework.xml
+I:\Santosh Personal\CRecon\CRecon\bin\EntityFramework.SqlServer.xml
+I:\Santosh Personal\CRecon\CRecon\bin\Newtonsoft.Json.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Helpers.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Mvc.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Razor.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.WebPages.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.WebPages.Deployment.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.WebPages.Razor.xml
+I:\Santosh Personal\CRecon\CRecon\bin\WebMatrix.Data.xml
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Web.WebPages.OAuth.xml
+I:\Santosh Personal\CRecon\CRecon\bin\WebMatrix.WebData.xml
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.AspNet.xml
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.Core.xml
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OAuth.xml
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.xml
+I:\Santosh Personal\CRecon\CRecon\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Web.Http.OData.xml
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Data.Edm.xml
+I:\Santosh Personal\CRecon\CRecon\bin\Microsoft.Data.OData.xml
+I:\Santosh Personal\CRecon\CRecon\bin\System.Spatial.xml
+I:\Santosh Personal\CRecon\CRecon\bin\de\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\es\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\it\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\de\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\es\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\fr\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\it\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ja\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ko\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ru\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\de\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\es\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\fr\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\it\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ja\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ko\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\ru\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\zh-Hans\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\bin\zh-Hant\System.Spatial.resources.dll
+I:\Santosh Personal\CRecon\CRecon\obj\Debug\CRecon.csprojResolveAssemblyReference.cache
+I:\Santosh Personal\CRecon\CRecon\obj\Debug\CRecon.dll
+I:\Santosh Personal\CRecon\CRecon\obj\Debug\CRecon.pdb
