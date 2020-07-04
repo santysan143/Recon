@@ -86,7 +86,43 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Forms\AdhaarCard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\CreateRole.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\CreateUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\CreditCard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\MobileNo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\PanCard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Forms\Registration.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\ReviewScan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\RoleMapping.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\UserMapping.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -102,8 +138,35 @@
     <Compile Include="Forms\Activation.xaml.cs">
       <DependentUpon>Activation.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Forms\AdhaarCard.xaml.cs">
+      <DependentUpon>AdhaarCard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CreateRole.xaml.cs">
+      <DependentUpon>CreateRole.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CreateUser.xaml.cs">
+      <DependentUpon>CreateUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CreditCard.xaml.cs">
+      <DependentUpon>CreditCard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MobileNo.xaml.cs">
+      <DependentUpon>MobileNo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PanCard.xaml.cs">
+      <DependentUpon>PanCard.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Registration.xaml.cs">
       <DependentUpon>Registration.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReviewScan.xaml.cs">
+      <DependentUpon>ReviewScan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RoleMapping.xaml.cs">
+      <DependentUpon>RoleMapping.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserMapping.xaml.cs">
+      <DependentUpon>UserMapping.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\lenovo\documents\visual studio 2013\Projects\MRecon\MRecon\obj\Debug\
+D:\git\Recon\MRecon\MRecon\obj\Debug\
 MRecon
 none
 false
 DEBUG;TRACE
-c:\users\lenovo\documents\visual studio 2013\Projects\MRecon\MRecon\App.xaml
-3-1990745670
+D:\git\Recon\MRecon\MRecon\App.xaml
+12-54396723
 490359180
-26-1256845809
-17-376477936
-Forms\Activation.xaml;Forms\Registration.xaml;MainWindow.xaml;
+351328278017
+171384710221
+Forms\Activation.xaml;Forms\AdhaarCard.xaml;Forms\CreateRole.xaml;Forms\CreateUser.xaml;Forms\CreditCard.xaml;Forms\MobileNo.xaml;Forms\PanCard.xaml;Forms\Registration.xaml;Forms\ReviewScan.xaml;Forms\RoleMapping.xaml;Forms\UserMapping.xaml;MainWindow.xaml;
 
 False
 

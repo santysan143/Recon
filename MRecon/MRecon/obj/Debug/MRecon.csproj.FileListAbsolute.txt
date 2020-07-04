@@ -25,3 +25,47 @@ c:\users\lenovo\documents\visual studio 2013\Projects\MRecon\MRecon\obj\Debug\Fo
 c:\users\lenovo\documents\visual studio 2013\Projects\MRecon\MRecon\obj\Debug\Forms\Registration.g.cs
 c:\users\lenovo\documents\visual studio 2013\Projects\MRecon\MRecon\obj\Debug\Forms\Activation.baml
 c:\users\lenovo\documents\visual studio 2013\Projects\MRecon\MRecon\obj\Debug\Forms\Activation.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\Activation.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\AdhaarCard.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\CreateRole.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\CreateUser.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\CreditCard.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\MobileNo.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\PanCard.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\Registration.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\ReviewScan.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\RoleMapping.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\UserMapping.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\MainWindow.baml
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\Activation.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\AdhaarCard.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\CreateRole.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\CreateUser.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\CreditCard.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\MobileNo.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\PanCard.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\Registration.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\ReviewScan.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\RoleMapping.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\Forms\UserMapping.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\MainWindow.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\App.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon_Content.g.cs
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon_MarkupCompile.cache
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon.g.resources
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon.Migrations.Mig1.resources
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon.Properties.Resources.resources
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon.csproj.GenerateResource.Cache
+D:\git\Recon\MRecon\MRecon\bin\Debug\Database\MyDB.mdf
+D:\git\Recon\MRecon\MRecon\bin\Debug\Database\MyDB_log.ldf
+D:\git\Recon\MRecon\MRecon\bin\Debug\MyDB.mdf
+D:\git\Recon\MRecon\MRecon\bin\Debug\MyDB_log.ldf
+D:\git\Recon\MRecon\MRecon\bin\Debug\MRecon.exe.config
+D:\git\Recon\MRecon\MRecon\bin\Debug\MRecon.exe
+D:\git\Recon\MRecon\MRecon\bin\Debug\MRecon.pdb
+D:\git\Recon\MRecon\MRecon\bin\Debug\EntityFramework.dll
+D:\git\Recon\MRecon\MRecon\bin\Debug\EntityFramework.SqlServer.dll
+D:\git\Recon\MRecon\MRecon\bin\Debug\EntityFramework.xml
+D:\git\Recon\MRecon\MRecon\bin\Debug\EntityFramework.SqlServer.xml
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon.exe
+D:\git\Recon\MRecon\MRecon\obj\Debug\MRecon.pdb

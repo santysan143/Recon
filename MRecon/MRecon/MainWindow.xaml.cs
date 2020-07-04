@@ -39,52 +39,56 @@ namespace MRecon
 
         private void CreateRoleSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/CreateRole.xaml",
+                        UriKind.RelativeOrAbsolute));
         }
 
         private void RoleMappingSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/RoleMapping.xaml",
+                                  UriKind.RelativeOrAbsolute));
         }
 
         private void CreateUserSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/CreateUser.xaml",
+                                 UriKind.RelativeOrAbsolute));
         }
 
         private void UserMappingSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/UserMapping.xaml",
+                                UriKind.RelativeOrAbsolute));
         }
 
         private void CreditCardSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/CreditCard.xaml",
+                               UriKind.RelativeOrAbsolute));
         }
 
         private void MobileNoSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/MobileNo.xaml",
+                             UriKind.RelativeOrAbsolute));
         }
 
         private void PanCardSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void AdhaarCard_Click(object sender, RoutedEventArgs e)
-        {
-
+            MainFrame.Navigate(new System.Uri("Forms/PanCard.xaml",
+                            UriKind.RelativeOrAbsolute));
         }
 
         private void AdhaarCardSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/AdhaarCard.xaml",
+                           UriKind.RelativeOrAbsolute));
         }
 
         private void ReviewScanSubMenu_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new System.Uri("Forms/ReviewScan.xaml",
+                         UriKind.RelativeOrAbsolute));
         }
     }
 }
