@@ -23,6 +23,7 @@ namespace MRecon.Forms
         public Activation()
         {
             InitializeComponent();
+
         }
     }
 }
